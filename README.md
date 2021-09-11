@@ -6,6 +6,7 @@
 -    I’m very happy today
 <!---Today i'm very busy
 Today i'm a little tired
+people love themself
 good good study day day up
 somedays no see
 mashichun101/mashichun101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
