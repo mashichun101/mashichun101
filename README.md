@@ -12,6 +12,7 @@ good good study day day up
 somedays no see
 keep up
 cool
+bad day
 good girl
 freedem
 mashichun101/mashichun101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
