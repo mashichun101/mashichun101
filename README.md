@@ -12,6 +12,7 @@ good good study day day up
 somedays no see
 keep up
 cool
+see you
 bad day
 good girl
 freedem
